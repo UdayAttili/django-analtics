@@ -1,0 +1,6 @@
+pip install 
+django-crispy-forms
+pip install django-chartjs
+
+Was able to print output in console because of the time constrain. The values we get in console can be used to use print graph using chart.js.
+As the excel is uploaded to the server location we can easily write values (TR, etc., )to it.
